@@ -33,3 +33,5 @@ The dashboard provides insights into:
 Netflix Movies Dataset
 
 ## Preview
+<img width="1492" height="862" alt="image" src="https://github.com/user-attachments/assets/341b52a3-8df9-4dc2-9f81-26265def71b7" />
+
